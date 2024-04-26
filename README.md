@@ -1,3 +1,4 @@
+![colegio](https://github.com/valentinamarinu/campusConnect/assets/103174712/3e22722c-440d-4ed2-84f7-058241e5bade)
 # Colegio ...
 
 **Integrantes:** <br>
@@ -9,4 +10,4 @@ Alejandro Amaya Agudelo <br>
 <br>[ver trello](https://trello.com/b/WnTKuFB6/riwi-project-development) 
 <br>[ver mockup](https://www.figma.com/file/eHUSTzzrOePKQ3zvUVlhBt/Caminos-del-saber?type=design&node-id=50-3&mode=design&t=XAT5DkQaSmDGNqai-0)
 <br>[ver cronograma](https://docs.google.com/spreadsheets/d/1zWF90D621u1R79zkyxkxKWNX_h_tLQlQx5OlbWMdfN4/edit)
-<br>  ![Ver diagrama de base de datos](https://drive.google.com/file/d/1bSAGkiBL1QEEftLy17DnnruOEqtZdBMe/view?usp=drive_link)
+
