@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CampusConnectApplication<CampusConnect>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.campusConnect.CampusConnect.CampusConnectApplication",
+      "projectName": "CampusConnect",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
