@@ -14,7 +14,12 @@
 <br> ***Ana Valentina Marín Usuga***
 <br> ***Alejandro Amaya Agudelo***<br><br>
 <br> **Diagramas** <br><br>
-![colegio](https://github.com/valentinamarinu/campusConnect/assets/103174712/3e22722c-440d-4ed2-84f7-058241e5bade)
+### Modelo Base de Datos
+![Modelo DB](https://github.com/valentinamarinu/campusConnect/assets/103174712/9cbdb35f-aac4-49ec-9f02-d7f7215016e5)
+
+### Modelo Arquitectónico:
+![Architecture diagram_ Rest API Campus Connect](https://github.com/valentinamarinu/campusConnect/assets/103174712/6160f0bd-8612-4b79-843a-121b6cb383b4)
+
 **Paso a paso** del set-up para levantar el proyecto (Variables de entorno,
 colecciones PostMan, Archivos de BD -si aplica-, URL con
 documentación de los endpoints), es IMPORTANTE que el team leader
