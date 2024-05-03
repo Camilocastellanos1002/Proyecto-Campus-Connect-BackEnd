@@ -13,7 +13,7 @@
 <br> ***Valentina Duarte Cardona***
 <br> ***Ana Valentina Marín Usuga***
 <br> ***Alejandro Amaya Agudelo***<br><br>
-<br> **Diagramas** <br><br>
+## **Diagramas** <br><br>
 ### Modelo Base de Datos
 ![Modelo DB](https://github.com/valentinamarinu/campusConnect/assets/103174712/9cbdb35f-aac4-49ec-9f02-d7f7215016e5)
 
