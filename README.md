@@ -28,7 +28,7 @@ levantar su código de implementación, provea el mayor detalle posible
 y pruebe el paso a paso que está documentando para verificar que el
 team leader podrá levantar y probar la solución
 
-
+<br>[repositorio 2 (Front-End)](https://github.com/valentinaduarte/Proyecto_Campus_Connect_FrontEnd.git)
 <br>[ver diagrama de clases](https://drive.google.com/file/d/1bUg0CgfoMmIZKlPakKR1uafyNVrgM-9V/view?usp=sharing)
 <br>[ver documento](https://docs.google.com/document/d/1oqWkobbJKhmRgbSoSQ9LziOj2dIik0Xn)
 <br>[ver trello](https://trello.com/b/WnTKuFB6/riwi-project-development) 
