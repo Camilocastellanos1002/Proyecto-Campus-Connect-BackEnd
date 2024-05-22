@@ -29,9 +29,9 @@ y pruebe el paso a paso que está documentando para verificar que el
 team leader podrá levantar y probar la solución
 
 
-
+<br>[ver diagrama de clases](https://drive.google.com/file/d/1bUg0CgfoMmIZKlPakKR1uafyNVrgM-9V/view?usp=sharing)
 <br>[ver documento](https://docs.google.com/document/d/1oqWkobbJKhmRgbSoSQ9LziOj2dIik0Xn)
 <br>[ver trello](https://trello.com/b/WnTKuFB6/riwi-project-development) 
 <br>[ver mockup](https://www.figma.com/file/eHUSTzzrOePKQ3zvUVlhBt/Caminos-del-saber?type=design&node-id=50-3&mode=design&t=XAT5DkQaSmDGNqai-0)
 <br>[ver cronograma](https://docs.google.com/spreadsheets/d/1zWF90D621u1R79zkyxkxKWNX_h_tLQlQx5OlbWMdfN4/edit)
-
+<br>[ver diagrama de clases](https://drive.google.com/file/d/1bUg0CgfoMmIZKlPakKR1uafyNVrgM-9V/view?usp=sharing)
